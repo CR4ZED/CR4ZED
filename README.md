@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Java<br>💬 Ask me about react, javascript and python<br>📫 How to reach me ankush9866@gmail.com</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning NextJs<br>💬 Ask me about react, javascript and python<br>📫 How to reach me ankush9866@gmail.com</p>
 
 ###
 
